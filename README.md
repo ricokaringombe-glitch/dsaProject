@@ -3,12 +3,12 @@
 
 Group Number: ___
 Members:
-- Student Number - Full Name (Task A1, A2 - Queue, Linked List)
-- Student Number - Full Name (Task A3 - Stack)
-- Student Number - Full Name (Task A4 - Array Statistics)
-- Student Number - Full Name (Task B1, B2 - Selection Sort, Insertion Sort)
-- Student Number - Full Name (Task B3, B4 - Merge Sort, Quick Sort)
-- Student Number - Full Name (Task C, Part D - Experiment, Integration)
+- 224085182 Courtney Van Wyk (Task A1, A2)
+- 224089633 Juno M Imene (Task A3, A4)
+- 223055425 Gina U T Tjizumau (Task A5, B1)
+- 223119059 Omalu Chibuike (Task B2, B3)
+- 224019503 Rodrico S Karingombe (Task B3, B4)
+- 223017493 Johannes Namupala(Task B4, Part C, Part D, Part E)
 
 Submitted by: Student Number - Full Name
 
