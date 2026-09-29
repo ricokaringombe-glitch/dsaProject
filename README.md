@@ -7,20 +7,27 @@ Members:
 - 224089633 Juno M Imene (Task A3, A4)
 - 223055425 Gina U T Tjizumau (Task A5, B1)
 - 223119059 Omalu Chibuike (Task B2, B3)
-- 224019503 Rodrico S Karingombe (Task B3, B4)
+- 224019503 Rodrico S Karingombe (Task A1, Part E)
 - 223017493 Johannes Namupala(Task B4, Part C, Part D, Part E)
 
-Submitted by: Student Number - Full Name
+Submitted by: 223017493 Johannes Namupala
 
 ## How to run
-1. Open a terminal in the `src` folder.
+1. Open a terminal in the folder containing the `.java` files.
 2. Compile: `javac *.java`
-3. Run the integrated menu once Part D is complete: `java Main`
+3. Run: `java Main
 
 ## Project structure
-- `src/Student.java` - shared student record used across the project
-- more files will be added here as each task is completed
-  (Queue, Linked List, Stack, Array stats, Sorting, Integration)
+
+- `Student.java` — student record model
+- `StudentQueue.java` — queue (Task A1)
+- `StudentLinkedList.java` — singly linked list (Task A2)
+- `PostfixEvaluator.java` — stack postfix evaluation (Task A3)
+- `DailyStatistics.java` — array statistics (Task A4)
+- `SortingAlgorithms.java` — Selection, Insertion, Merge, Quick (Tasks B1–B4)
+- `SortingExperiment.java` — algorithm experiment (Part C)
+- `ServiceCentreSystem.java` — integrated menu (Part D)
+- `Main.java` — entry point
 
 ## Branching workflow
 - `main` holds working, merged code only.
@@ -30,4 +37,5 @@ Submitted by: Student Number - Full Name
 - Pull from `main` before starting a new task to stay up to date.
 
 ## GitHub repository
-<link goes here>
+
+https://github.com/ricokaringombe-glitch/dsaProject
